@@ -1,0 +1,271 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    height: 80px;
+
+}
+
+.row{
+    height: inherit;
+}
+
+.col-4{
+    height: inherit;
+    display: flex;
+    align-items: center;
+}
+
+#aa{
+    background-image: url(h1_hero3.jpg);
+    height: 800px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#a1{
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+
+
+#a2{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin-inline: 10px;
+    font-family: cursive;
+}
+
+#a3{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin-inline: 10px;
+    font-family: cursive;
+}
+
+#a4{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin-inline: 10px;
+    font-family: cursive;
+}
+
+#a5{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin-inline: 10px;
+    font-family: cursive;
+}
+
+#a6{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin-inline: 10px;
+    font-family: cursive;
+}
+
+#a7{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin-inline: 10px;
+    font-family: cursive;
+}
+
+#a8{
+    margin-left: 190px;
+    font-size: 30px;
+}
+
+#a9{
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+#a10{
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+#a11{
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+#a12{
+    margin-top: 500px;
+   color: white;
+   font-family: fantasy;
+}
+
+#a13{
+    
+   color: white;
+   font-family: fantasy;
+   font-size: 120px;
+}
+
+#b1{
+    height: 600px;
+    border: 0px solid transparent;
+    background-image: url(gallery1.jpg);
+    background-repeat: no-repeat;
+}
+
+#bb1{
+    margin-top: 390px;
+    margin-left: 150px;
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+#bb2{
+   font-size: 40px;
+    margin-left: 150px;
+    color: white;
+  font-family: fantasy;
+}
+
+#b2{
+    height: 600px;
+    border: 0px solid transparent;
+    background-image: url(gallery2.jpg);
+    background-repeat: no-repeat;
+}
+
+#b3{
+    height: 600px;
+    border: 0px solid transparent;
+    background-image: url(gallery3.jpg);
+    background-repeat: no-repeat;
+}
+
+#b4{
+    height: 600px;
+    border: 0px solid transparent;
+    background-image: url(gallery4.jpg);
+    background-repeat: no-repeat;
+}
+
+#b5{
+    height: 600px;
+    border: 0px solid transparent;
+    background-image: url(gallery5.jpg);
+    background-repeat: no-repeat;
+}
+
+#b6{
+    height: 600px;
+    border: 0px solid transparent;
+    background-image: url(gallery6.jpg);
+    background-repeat: no-repeat;
+}
+
+#c1{
+    margin-top: 1200px;
+    font-size: 60px;
+    font-family: cursive;
+    font-weight: 900;
+}
+
+#cc1{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+#c2{
+    height: 600px;
+    width: 500px;
+    border: 3px solid black;
+    margin-inline: 20px;
+}
+
+#c3{
+    height: 600px;
+    width: 500px;
+    border: 3px solid black;
+    margin-inline: 20px;
+}
+
+#c4{
+    height: 600px;
+    width: 500px;
+    border: 3px solid black;
+    margin-inline: 20px;
+}
+
+#d1{
+    height: 50px;
+    width: 190px;
+    margin-top: 50px;
+    margin-left: 150px;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+#d2{
+    margin-top: 30px;
+    margin-left: 150px;
+    font-family: cursive;
+}
+
+#cc2{
+    border-bottom: 1px solid black;
+    height: 220px;
+}
+
+#d3{
+    margin-top: 50px;
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+#d4{
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 400px;
+    font-size: 40px;
+    font-family: fantasy;
+
+}
+
+
+#e1{
+    height: 700px;
+    width: 100%;
+    background-color: black;
+    margin-top: 40px;
+}
+
+#e2{
+    color: white;
+    font-size: 80px;
+    padding-top: 50px;
+    font-family: cursive;
+}
+
+#e3{
+    color: white;
+    padding-top: 50px;
+    font-size: 40px;
+    font-family: fantasy;
+}
+
